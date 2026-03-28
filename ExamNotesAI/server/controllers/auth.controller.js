@@ -17,6 +17,7 @@ export const googleAuth = async (req,res) => {
             httpOnly: true,
             secure: true,                          //for live-- true ,,,, for own server-- false
             sameSite:"none",                        //for live-- none ,,,, for own server-- lax                           
+            path:"/",
             maxAge:7 * 24 * 60 * 60 * 1000
 
         })
