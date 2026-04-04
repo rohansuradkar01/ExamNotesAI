@@ -21,18 +21,25 @@ A full-stack AI-powered application that helps students generate smart exam note
 - **📱 Responsive Design** - Works on desktop and mobile
 
 ---
+## 🚀 Quick Start
 
-🚀 Quick Start
+### Prerequisites
 
-Prerequisites
-React.js
-Node.js (v18 or higher)
-Express.js
-MongoDB (running locally on port 27017)
-1. Clone the Repository
+- **Node.js** (v18 or higher)
+- React.js
+- Express.js
+- **MongoDB** (running locally on port 27017)
+
+### 1. Clone the Repository
+
+```bash
 cd ExamNotesAI
-2. Backend Setup
-# Navigate to backend
+```
+
+### 2. Backend Setup
+
+```bash
+# Navigate to Server
 cd server
 
 # Install dependencies
@@ -40,12 +47,16 @@ npm install
 
 # Start the server (development mode)
 npm run dev
-The server will run on http://localhost:5000
+```
 
-3. Frontend Setup
+The server will run on `http://localhost:5000`
+
+### 3. Frontend Setup
+
 Open a new terminal:
 
-# Navigate to frontend
+```bash
+# Navigate to client
 cd client
 
 # Install dependencies
@@ -53,5 +64,9 @@ npm install
 
 # Start the development server
 npm run dev
-The client will run on http://localhost:3000
+```
+
+The client will run on `http://localhost:3000`
+
+---
 
