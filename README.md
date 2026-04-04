@@ -2,10 +2,10 @@
 
 A full-stack AI-powered application that helps students generate smart exam notes, diagrams, and important questions — all in seconds.
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![JWT](https://img.shields.io/badge/Auth-JWT-black?style=flat-square&logo=jsonwebtokens)
-![Stripe](https://img.shields.io/badge/Payments-Stripe-635BFF?style=flat-square&logo=stripe)
-![AI](https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square&logo=openai)
+![React](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-green?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=flat-square&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe)
+![AI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
