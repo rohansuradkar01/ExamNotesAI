@@ -23,6 +23,7 @@ A full-stack AI-powered application that helps students generate smart exam note
 ---
 
 🚀 Quick Start
+
 Prerequisites
 React.js
 Node.js (v18 or higher)
